@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi there! 👋 I'm Hayas Ismail
 
-<!--
-**hayasnc/hayasnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer with 12 years of experience in Python, Django, and AWS services. I specialize in backend development, cloud solutions, and scalable architectures. Recently, I started my own software consultancy, focusing on software development, DevOps, and AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I'm Working On
+
+🏗 AI & ML Upskilling – Exploring AI app development and ML model building.
+
+🤖 AI-Powered Telegram Bot – Integrating AI agents with Telegram.
+
+📦 Predictive Analytics for Digital Vouchers – Forecasting weekly uploads for digital card vouchers.
+
+📱 Android App Development – Enhancing delivery logistics with secure phone masking and push notifications.
+
+🛠 Tech Stack
+
+Backend: Python, Django, Django REST Framework
+
+Frontend: Android (Kotlin/Java), Flutter
+
+Cloud & DevOps: AWS (Lambda, S3, DynamoDB, ECS), Docker, CI/CD
+
+Databases: PostgreSQL, MySQL, Google Sheets API
+
+AI & ML: OpenAI, LLMs, Predictive Modeling
+
+🌱 Learning & Growth
+
+I'm currently deep-diving into:
+
+Large Language Models (LLMs)
+
+AI-powered applications
+
+Scalable ML model deployment
+
+📫 Let's Connect!
+
+💼 LinkedIn
+
+💻 GitHub
+
+✉️ Email
+
+🚀 Always open to collaborations, exciting projects, and AI innovations!
