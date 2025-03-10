@@ -1,10 +1,11 @@
-Hi there! 👋 I'm Hayas Ismail
+# Hi there! 👋 I'm Hayas Ismail
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a Software Engineer with 12 years of experience in Python, Django, and AWS services. I specialize in backend development, cloud solutions, and scalable architectures. Recently, I started my own software consultancy, focusing on software development, DevOps, and AI solutions.
+I'm a passionate Backend Engineer with a growing fascination for Artificial Intelligence. While my core expertise lies in building scalable server-side applications, robust APIs, and efficient database architectures, I'm actively exploring and integrating AI technologies into my work. I'm particularly interested in how AI can enhance backend systems and create more intelligent, adaptive solutions for modern applications.
 
-🔥 What I'm Working On
+
+## 🔥 What I'm Working On
 
 🏗 AI & ML Upskilling – Exploring AI app development and ML model building.
 
@@ -12,21 +13,28 @@ I'm a Software Engineer with 12 years of experience in Python, Django, and AWS s
 
 📦 Predictive Analytics for Digital Vouchers – Forecasting weekly uploads for digital card vouchers.
 
-📱 Android App Development – Enhancing delivery logistics with secure phone masking and push notifications.
+## 🛠 Tech Stack
 
-🛠 Tech Stack
+Languages: Python, Javascript, SQL
 
-Backend: Python, Django, Django REST Framework
+Web frameworks: Django, Fast API, Node.js
 
-Frontend: Android (Kotlin/Java), Flutter
+Databases: PostgreSQL, MySQL, MongoDB
 
-Cloud & DevOps: AWS (Lambda, S3, DynamoDB, ECS), Docker, CI/CD
+Cache: Redis
 
-Databases: PostgreSQL, MySQL, Google Sheets API
+Messaging: Kafka
 
-AI & ML: OpenAI, LLMs, Predictive Modeling
+Security & Auth: Keycloak, OAuth2.0, JWT
 
-🌱 Learning & Growth
+Frontend: Android, Angular
+
+Cloud & DevOps: AWS (Lambda, S3, DynamoDB, ECS), Docker, CI/CD, Git
+
+AI/ML: LLM, AI Applications, Scikit-Learn
+
+
+## 🌱 Learning & Growth
 
 I'm currently deep-diving into:
 
@@ -38,10 +46,10 @@ Scalable ML model deployment
 
 📫 Let's Connect!
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/hayasnc/)
 
-💻 GitHub
+💻 [GitHub](https://github.com/hayasnc/)
 
-✉️ Email
+✉️ [Email](hayasnc@gmail.com)
 
 🚀 Always open to collaborations, exciting projects, and AI innovations!
