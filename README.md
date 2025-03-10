@@ -44,7 +44,8 @@ AI-powered applications
 
 Scalable ML model deployment
 
-📫 Let's Connect!
+
+## 📫 Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/hayasnc/)
 
